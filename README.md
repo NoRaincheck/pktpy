@@ -14,3 +14,11 @@ uv run pktpy path/to/script.py
 pip install pktpy
 pktpy path/to/script.py
 ```
+
+## Example
+
+```shell
+$ uv run pktpy example/example.py
+[2, 3, 5, 7, 11, 13, 17, 19]
+```
+```
